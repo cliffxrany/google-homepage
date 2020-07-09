@@ -1,1 +1,1 @@
-construction and deconstructinf the google homepage
+construction and deconstruction the google homepage
