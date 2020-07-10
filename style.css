@@ -1,10 +1,24 @@
-ul {
+.navigationbar {
     list-style-type: none;
     margin-top: 20px;
-    margin-right: ;
+    margin-right: 40px;
     margin-bottom: ;
     margin-left: 40px;
     padding: 0;
+    text-align: right;
+
+.bottombar{
+    position: absolute;
+    bottom: 10px;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-right: 40px;
+    margin-bottom: ;
+    margin-left: 40px;
+    padding: 0;
+    text-align: :left;
+
+}
 
 }
 li {
@@ -16,8 +30,9 @@ li {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
-    height: 50%;
+    width: 40%;
+    height: 0.1%;
+    background-size: 100px 100px;
 }
 .searchbar{
     display: block;
