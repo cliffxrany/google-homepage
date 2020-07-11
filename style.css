@@ -18,6 +18,7 @@
     padding: 0;
     text-align: :left;
 
+
 }
 
 }
@@ -30,7 +31,8 @@ li {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    margin-top: 80px;
+    width: 10%;
     height: 0.1%;
     background-size: 100px 100px;
 }
@@ -46,14 +48,39 @@ li {
     border-width: thin;
     border-color: grey;
     padding: 10px;
+    border-style: solid;
     }
 .button{
     display: inline;
-    margin-left: 50px;
-    margin-right: auto;
+    margin: 10px 170px ;
     width: 20%;
     height: 30%;
-    background-color: grey;
+    border-style: solid;
+    background-color: rgb(202, 198, 198);
     border-radius: 15px;
+    border-width: thin;
+    border-color: rgb(228, 220, 220);
+    padding: 10px;
+    
 
+}
+
+body ul li .signin{
+    padding: 10px;
+    background-color: rgb(70, 70, 184);
+    color: white;
+    border-radius: 5px;
+}
+footer {
+    align-items: baseline;
+    background-color: rgb(223, 221, 223);
+    padding: 5px;
+    length: 100%;
+    margin-top: 90px;
+}
+
+footer ul .bottombar {
+    border-style: solid;
+    border-bottom: thin;
+    border-color: rgb(119, 116, 116);
 }
