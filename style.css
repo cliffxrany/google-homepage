@@ -1,86 +1,13 @@
-.navigationbar {
+li{
     list-style-type: none;
-    margin-top: 20px;
-    margin-right: 40px;
-    margin-bottom: ;
-    margin-left: 40px;
-    padding: 0;
-    text-align: right;
-
-.bottombar{
-    position: absolute;
-    bottom: 10px;
-    list-style-type: none;
-    margin-top: 20px;
-    margin-right: 40px;
-    margin-bottom: ;
-    margin-left: 40px;
-    padding: 0;
-    text-align: :left;
-
-
-}
-
-}
-li {
-  display: inline;
-  text-align: left;
-  
-}
-.logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 80px;
-    width: 10%;
-    height: 0.1%;
-    background-size: 100px 100px;
-}
-.searchbar{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 10px;
-    margin-top: 10px;
-    width: 80%;
-    height: 100%;
-    border-radius: 22px;
-    border-width: thin;
-    border-color: grey;
-    padding: 10px;
-    border-style: solid;
-    }
-.button{
     display: inline;
-    margin: 10px 170px ;
-    width: 20%;
-    height: 30%;
-    border-style: solid;
-    background-color: rgb(202, 198, 198);
-    border-radius: 15px;
-    border-width: thin;
-    border-color: rgb(228, 220, 220);
-    padding: 10px;
-    
-
 }
 
-body ul li .signin{
-    padding: 10px;
-    background-color: rgb(70, 70, 184);
-    color: white;
-    border-radius: 5px;
-}
-footer {
-    align-items: baseline;
-    background-color: rgb(223, 221, 223);
-    padding: 5px;
-    length: 100%;
-    margin-top: 90px;
+a{
+    text-decoration: none;
+    color: rgb(109, 107, 107);
 }
 
-footer ul .bottombar {
-    border-style: solid;
-    border-bottom: thin;
-    border-color: rgb(119, 116, 116);
+input{
+    margin-top: 10px;
 }
